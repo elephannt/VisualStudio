@@ -1,0 +1,8 @@
+C:\Users\oorozco\Documents\Visual Studio 2017\Projects\Altadecuentas\Altadecuentas\bin\Debug\Altadecuentas.exe.config
+C:\Users\oorozco\Documents\Visual Studio 2017\Projects\Altadecuentas\Altadecuentas\bin\Debug\Altadecuentas.exe
+C:\Users\oorozco\Documents\Visual Studio 2017\Projects\Altadecuentas\Altadecuentas\bin\Debug\Altadecuentas.pdb
+C:\Users\oorozco\Documents\Visual Studio 2017\Projects\Altadecuentas\Altadecuentas\bin\Debug\SqlHelper.dll
+C:\Users\oorozco\Documents\Visual Studio 2017\Projects\Altadecuentas\Altadecuentas\obj\Debug\Altadecuentas.csprojResolveAssemblyReference.cache
+C:\Users\oorozco\Documents\Visual Studio 2017\Projects\Altadecuentas\Altadecuentas\obj\Debug\Altadecuentas.csproj.CoreCompileInputs.cache
+C:\Users\oorozco\Documents\Visual Studio 2017\Projects\Altadecuentas\Altadecuentas\obj\Debug\Altadecuentas.exe
+C:\Users\oorozco\Documents\Visual Studio 2017\Projects\Altadecuentas\Altadecuentas\obj\Debug\Altadecuentas.pdb
