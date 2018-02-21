@@ -11,7 +11,7 @@ namespace Altadecuentas
 {
     public static class dl
     {
-        private static string Conexiones = "Data Source=SRVRERPLOG\\SQLSERVERERP;Initial Catalog=ReplicacionSmartlist;Persist Security Info=True;User ID=sa;Password=Pr1v@teAcc3ss";
+        private static string Conexiones = "Data Source=SRVRERPLOG\\SQLSERVERERP;Initial Catalog=ReplicacionSmartlist;Persist Security Info=True;";
         public static DataTable GetInfoProveedoresByEstatus(int Estatus)
         {
             DataTable dt;
